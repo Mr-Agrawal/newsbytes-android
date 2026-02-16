@@ -9,7 +9,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapplicationtemp"
+    namespace = "com.example.newsbytes"
     compileSdk = 36
 
     buildFeatures {
@@ -18,7 +18,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.myapplicationtemp"
+        applicationId = "com.example.newsbytes"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

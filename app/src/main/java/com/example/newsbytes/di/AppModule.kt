@@ -1,6 +1,6 @@
 package com.example.newsbytes.di
 
-import com.example.myapplicationtemp.BuildConfig
+import com.example.newsbytes.BuildConfig
 import com.example.newsbytes.data.remote.NewsApiService
 import com.example.newsbytes.data.remote.repository.NetworkNewsRepository
 import com.example.newsbytes.domain.repository.NewsRepository
